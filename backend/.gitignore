@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables
+.env
+.env.local
+
+# pytest
+.pytest_cache/
+
+# User-specific or scratch files
+*.csv
+!sample.csv
+test_api.py

@@ -1,0 +1,9 @@
+customer_id,age,income,city,purchased
+1001,21,45000,Delhi,1
+1002,22,47000,Delhi,0
+1003,25,46000,Jaipur,1
+1003,25,46000,Jaipur,1
+1004,31,52000,Jaipur,0
+1005,28,49000,Delhi,1
+1005,28,49000,Delhi,1
+1006,40,61000,Mumbai,0
